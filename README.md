@@ -34,20 +34,21 @@ The segmentation helps identify high-value customers and understand distribution
 
 ## Key Metrics
 
+- Total Revenue: $68.55M
 - Total Customers: 99,000
-- Low Value Customers: 95,000
-- Medium Value Customers: 3,014
-- High Value Customers: 1,001
+- Low Value Customers: 56,780
+- Medium Value Customers: 34,630
+- High Value Customers: 8,050
 - Total Orders : 99,000
 
 ---
 
 ## Key Features of Dashboard
 
-- 📊 Customer Segmentation Distribution
-- 📈 Customer Count by Category
-- 🥧 Segment-wise Comparison
-- 🎛 Interactive Slicers
+-  Customer Segmentation Distribution
+-  Customer Count by Category
+-  Segment-wise Comparison
+-  Interactive Slicers
 
 ---
 
@@ -57,7 +58,7 @@ The segmentation helps identify high-value customers and understand distribution
 - A small percentage of customers contribute as high-value customers
 - Medium-value customers represent a transition group with growth potential
 - High-value customers are limited but highly contribute to revenue
-- Low value customers generate the highest overall revenue due to their large volume
+- Medium value customers generate the highest overall revenue
 - Customer distribution across gender is fairly balanced
 - Revenue is highest in categories like Clothing and shoes compared to others
 
