@@ -83,7 +83,7 @@ The segmentation helps identify high-value customers and understand distribution
 
 ## Dashboard Preview
 
-![Dashboard]("C:\Users\nasee\OneDrive\Desktop\Customer_project\Dashboard_screenshot.png")
+![Dashboard]("C:\Users\nasee\OneDrive\Desktop\Customer_project\Customer_Dashboard_screenshot.png")
 
 ---
 
